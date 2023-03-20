@@ -1,0 +1,50 @@
+body{
+    
+    
+    margin:0;
+   
+    
+    
+    
+    height:100%;
+
+
+
+
+}
+#a1{
+   
+    display: none;
+   position: relative;
+   top: 17%;
+   left: 26%;
+}
+#a2{
+   
+    position: relative;
+    top: 17%;
+    left: 26%;
+ }
+
+button:hover{
+    cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+canvas{
+    position:absolute;top:0;left:0;
+    z-index:100;
+    background-image: url("/binhmeo.png");
+    
+
+}
